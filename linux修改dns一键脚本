@@ -1,0 +1,1 @@
+chattr -i /etc/resolv.conf && wget -N --no-check-certificate https://shop.bgp.sh/modules/addons/stream_unblock/library/shell/dns-change.sh && chmod +x dns-change.sh && ./dns-change.sh 34.217.175.116 
