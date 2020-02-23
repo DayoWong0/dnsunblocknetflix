@@ -1,4 +1,7 @@
-# linux修改dns一键脚本(脚本非原创 
+# linux修改dns一键脚本
+
+脚本非本人原创
+
 Author : MXiDev
 
 Website : https://mxidev.com)
